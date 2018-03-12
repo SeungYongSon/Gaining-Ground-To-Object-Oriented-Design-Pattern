@@ -1,3 +1,3 @@
-# JAVA-Object-Oriented-Design-Pattern
+# Terrific-JAVA-Object-Oriented-Design-Pattern
 
 Let's Study Design-Pattern
